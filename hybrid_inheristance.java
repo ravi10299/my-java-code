@@ -1,7 +1,7 @@
 public class hybrid_inheristance{
     public static void main(String args[]){
         Shark sk = new Shark();
-        sk.name= "shark fish";
+        sk.name= "shark";
         System.out.println(sk.name);
 
     }
